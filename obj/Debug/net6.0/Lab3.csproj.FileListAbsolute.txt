@@ -1,0 +1,15 @@
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.csproj.AssemblyReference.cache
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Files\Visual projects\Lab3\bin\Debug\net6.0\Lab3.exe
+D:\YandexDisk\Files\Visual projects\Lab3\bin\Debug\net6.0\Lab3.deps.json
+D:\YandexDisk\Files\Visual projects\Lab3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+D:\YandexDisk\Files\Visual projects\Lab3\bin\Debug\net6.0\Lab3.dll
+D:\YandexDisk\Files\Visual projects\Lab3\bin\Debug\net6.0\Lab3.pdb
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.dll
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\refint\Lab3.dll
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.pdb
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+D:\YandexDisk\Files\Visual projects\Lab3\obj\Debug\net6.0\ref\Lab3.dll
